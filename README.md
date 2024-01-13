@@ -9,4 +9,4 @@ Dragon Repeller RPG is a browser-based game created with HTML and JavaScript. Th
 
 ## Dragon Repeller RPG
 
-(![Screenshot 2024-01-14 000943.png](<Screenshot 2024-01-14 000943.png>))
+![Screenshot 2024-01-14 000943.png](<Screenshot 2024-01-14 000943.png>)
