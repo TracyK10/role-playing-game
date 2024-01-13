@@ -5,7 +5,7 @@ Dragon Repeller is a simple text-based RPG where you, the player, must defeat th
 
 ## Game Overview
 
-Dragon Repeller RPG is a browser-based game created with HTML and JavaScript. The player navigates through different locations, battles monsters, and makes decisions that impact their character's health, experience points, and gold.
+Dragon Repeller RPG is a browser-based game created with HTML, CSS and JavaScript. The player navigates through different locations, battles monsters, and makes decisions that impact their character's health, experience points, and gold.
 
 ## Dragon Repeller RPG
 
